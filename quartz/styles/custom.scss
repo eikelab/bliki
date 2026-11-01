@@ -1,3 +1,8 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Hide the "Created with Quartz" line; keep the legal links in the footer.
+footer > p {
+  display: none;
+}

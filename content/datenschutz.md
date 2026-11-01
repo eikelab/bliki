@@ -1,5 +1,6 @@
 ---
 title: Datenschutzerklärung / Privacy Policy
+unlisted: true
 ---
 
 English version: [Privacy Policy](#privacy-policy-english)

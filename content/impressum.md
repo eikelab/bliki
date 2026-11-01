@@ -1,5 +1,6 @@
 ---
 title: Impressum (Legal Notice)
+unlisted: true
 ---
 
 ## Angaben gemäß § 5 DDG
