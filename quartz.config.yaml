@@ -64,7 +64,7 @@ plugins:
       highlight: true
       wikilinks: true
       callouts: true
-      mermaid: true
+      mermaid: false
       parseTags: true
       parseArrows: true
       parseBlockReferences: true
@@ -164,7 +164,7 @@ plugins:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -231,8 +231,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        "Impressum / Legal Notice": /impressum
+        "Datenschutz / Privacy": /datenschutz
     layout:
       position: footer
       priority: 50
